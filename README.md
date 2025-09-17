@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+A webpage about the Across the Board cafe
 
 ## Team Members:
 
@@ -13,9 +13,9 @@
 
 ## Member Contributions:
 
-### Name 1:
+### Connor W:
 
--   Worked on [specific elements] of the webpage.
+-   Created the framework and repository as well as div 1 items, updated div 1 and created header and body css stylings
 
 ### Yupeng Du
 
