@@ -17,9 +17,9 @@
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Yupeng Du
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+- Yupeng Was responsible for div 2 html and add footer on html, focusing on adding CSS for div1–div4 with margin, padding, border. Also styled the footer with gray background, white text, and center alignment.
 
 ### Name 3:
 
