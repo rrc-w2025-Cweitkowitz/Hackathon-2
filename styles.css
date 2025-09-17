@@ -24,6 +24,23 @@ footer {
     padding: 1px;
 }
 
+div.div3{
+    padding: 0;
+    margin: 0;
+    border-left: 4px solid rgb(95, 95, 9);
+    background-color:  rgb(236, 236, 202);
+}
+div.div3{
+    background-color: rgb(237, 237, 184);
+    padding: 20px;
+}
+
+div.div3 ul{
+    background-color: rgb(236, 236, 202);
+    padding: 10px;
+    margin-left: 20px;
+}
+
 .div4 {
   padding: 2rem;
   text-align: center;
@@ -79,3 +96,4 @@ footer {
   cursor: pointer;
   border-color: #b89e5c;
 }
+

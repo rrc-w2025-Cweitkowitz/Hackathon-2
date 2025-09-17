@@ -21,9 +21,9 @@
 
 - Yupeng Was responsible for div 2 html and add footer on html, focusing on adding CSS for div1–div4 with margin, padding, border. Also styled the footer with gray background, white text, and center alignment.
 
-### Name 3:
+### Dhawanpreet Kaur
 
--   Handled [specific sections], covering [specific topics or features].
+- Dhawan was responsible for Div 3 section of the code. Added border and styled the background of the Food menu of Game cafe section.
 
 ### Bosco Nkomeje
 
