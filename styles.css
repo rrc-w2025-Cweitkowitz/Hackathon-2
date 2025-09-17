@@ -10,3 +10,16 @@ body {
     font-size: 14px;
 }
 
+.div1, .div2, .div3, .div4 {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
