@@ -25,6 +25,10 @@
 
 -   Handled [specific sections], covering [specific topics or features].
 
-### Name 3:
+### Bosco Nkomeje
 
--   Handled [specific sections], covering [specific topics or features].
+-   I styled the drinks section(div 4) with centered text and padding for spacing.
+The heading was enhanced with a decorative underline using a pseudo-element.
+The drinks list was arranged with a responsive grid layout for flexibility.
+Each list item includes an icon added with pseudo-elements and styled using the box model.
+A hover effect changes color, scales the item slightly, and highlights the border for interactivity.

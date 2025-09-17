@@ -23,3 +23,59 @@ footer {
     text-align: center;
     padding: 1px;
 }
+
+.div4 {
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.div4 h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.div4 h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #b89e5c;
+  margin: 0.5rem auto;
+  border-radius: 2px;
+}
+
+.drinks-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.drinks-list li {
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 0.8rem;
+  border-radius: 6px;
+  position: relative;
+  transition: background 0.3s, transform 0.2s;
+  font-size: 1rem;
+}
+
+.drinks-list li:nth-child(1)::before { content: "☕ "; }
+.drinks-list li:nth-child(2)::before { content: "🥤 "; }
+.drinks-list li:nth-child(3)::before { content: "🍵 "; }
+.drinks-list li:nth-child(4)::before { content: "🍺 "; }
+.drinks-list li:nth-child(5)::before { content: "🍷 "; }
+.drinks-list li:nth-child(6)::before { content: "🍹 "; }
+
+.drinks-list li:hover {
+  background: #f2e8c9;
+  transform: scale(1.05);
+  cursor: pointer;
+  border-color: #b89e5c;
+}
